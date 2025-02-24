@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kerene Wright</h1>
 <h3 align="center">A Jamaican student developer currently pursuing my M.S. in Computer Science</h3>
 
-- 🔭 I’m currently working on [AI Sentence Prediction Model](https://github.com/KLAW4life/SentencePrediction)
+- 🔭 I’m currently working on [Personal Portfolio](https://github.com/KLAW4life/PersonalPortfolio)
 
 - 🌱 I’m currently learning **React, AI/ML, Docker, Azure**
 
