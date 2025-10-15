@@ -2,6 +2,7 @@
 <h3 align="center">A Jamaican student developer currently pursuing my M.S. in Computer Science</h3>
 
 - 🔭 I’m currently working on [Personal Portfolio](https://github.com/KLAW4life/WrightPortfolio)
+- Check out my [Live Portfolio](https://klaw4life.github.io/WrightPortfolio/) 
 
 - 🌱 I’m currently learning **React, AI/ML, Docker, Azure**
 
