@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kerene Wright</h1>
 <h3 align="center">A Jamaican student developer currently pursuing my M.S. in Computer Science</h3>
 
-- 🔭 I’m currently working on [Personal Portfolio](https://github.com/KLAW4life/PersonalPortfolio)
+- 🔭 I’m currently working on [Personal Portfolio](https://github.com/KLAW4life/WrightPortfolio)
 
 - 🌱 I’m currently learning **React, AI/ML, Docker, Azure**
 
 - 💬 Ask me about **Flask, Bootstrap, Python**
-
-- 📫 How to reach me **wright.kerenel@gmail.com**
 
 - ⚡ Fun fact **My favourite colour is purple and I enjoy watching movies, tv shows and reading manga**
 
